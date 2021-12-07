@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 TJ软工大三学生
+- 🌱 目前正在学习软件工程，ios开发，计算机网络，javaEE
+- 👯 热爱运动，🏋️健身，🏃跑步，🏓️乒乓球，🏊游泳
+- 🤔 最近正在努力学习swift,Springboot,mysql
+- 💬 编程能力真的是自己的弱项了！！！
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redifinition&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=redifinition&theme=react_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
