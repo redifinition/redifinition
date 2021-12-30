@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 目前正在学习软件工程，ios开发，计算机网络，javaEE
 - 👯 热爱运动，🏋️健身，🏃跑步，🏓️乒乓球，🏊游泳
 - 🤔 最近正在努力学习swift,Springboot,mysql
-- 💬 早日写完ios!
+- 💬 期末复习加油！！！
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
