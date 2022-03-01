@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 TJ软工大三学生
-- 🌱 目前正在学习软件工程，ios开发，计算机网络，javaEE
+- 🌱 目前正在学习软件测试，.NET开发，软件项目管理与经济，商务智能，
 - 👯 热爱运动，🏋️健身，🏃跑步，🏓️乒乓球，🏊游泳
-- 🤔 最近正在努力学习swift,Springboot,mysql
-- 💬 期末复习加油！！！
+- 🤔 最近正在努力学习.NET,ES6,C#,刷leetcode
+- 💬 保研实习加油！！！
+- 📫 个人博客地址 https://redifinition.github.io 个人域名还在备案中...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
