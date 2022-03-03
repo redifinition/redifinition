@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 热爱运动，🏋️健身，🏃跑步，🏓️乒乓球，🏊游泳
 - 🤔 最近正在努力学习.NET,ES6,C#,刷leetcode
 - 💬 保研实习加油！！！
-- 📫 个人博客地址 https://redifinition.github.io 个人域名还在备案中...
+- 📫 个人博客地址 https://qiaoliang.website
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
