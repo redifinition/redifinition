@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 TJ软工大四学生
-- 🤔 最近正在努力学习React,Typescript
-- 💬 目前正在美团暑期实习
+- 🤔 最近正在复习计算机408的内容
+- 💬 目前正在准备保研复试
 - 📫 个人博客地址 https://qiaoliang.website
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
