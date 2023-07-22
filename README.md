@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 TJ软工大四学生
-- 🤔 最近正在复习计算机408的内容
-- 💬 目前正在准备保研复试
-- 📫 个人博客地址 https://qiaoliang.website
+- 🔭 TJ软工研一学生
+- 🤔 最近进行NLP有关课题研究
+- 💬 目前正在学习LLM
+- 📫 个人博客地址 https://qiaoliang.website（暂时❌）
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
