@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 TJ软工研一学生
-- 🤔 最近进行（多模态）情感分析有关研究
-- 💬 目前正在学习Speech and Language Processing
+- 🔭 TJ软工研三学生
+- 🤔 最近进行（多模态）情感分析, RLVR有关研究
+- 💬 目前正在准备秋招
 - 📫 个人博客地址 https://qiaoliang.website（暂时❌）
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
