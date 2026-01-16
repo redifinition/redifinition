@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 - 🤔 最近进行 RL for（多模态）情感分析, Agentic RL有关研究
 - 🎉 Bytedance 大模型算法岗预备役 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redifinition&layout=compact&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
