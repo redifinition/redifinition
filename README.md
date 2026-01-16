@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 TJ软工研三学生
-- 🤔 最近进行（多模态）情感分析, RLVR有关研究
-- 💬 目前正在准备秋招
-- 📫 个人博客地址 https://qiaoliang.website（暂时❌）
+- 🤔 最近进行 RL for（多模态）情感分析, Agentic RL有关研究
+- 🎉 Bytedance 大模型算法岗预备役 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redifinition&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
